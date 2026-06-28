@@ -8,14 +8,14 @@
   "description": "Aplikasi Manajemen Pembukuan Usaha",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/2331/2331966.png",
+      "src": "./logo.jpeg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpeg"
     },
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/2331/2331966.png",
+      "src": "./logo.jpeg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpeg"
     }
   ]
 }

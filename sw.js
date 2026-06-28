@@ -1,10 +1,11 @@
-const CACHE_NAME = 'pembukuanku-v1';
+const CACHE_NAME = 'pembukuanku-v2';
 const urlsToCache = [
   './',
   './index.html',
   './style.css',
   './app.js',
-  './db.js'
+  './db.js',
+  './logo.jpeg'
 ];
 
 self.addEventListener('install', event => {
